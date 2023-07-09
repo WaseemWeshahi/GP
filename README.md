@@ -3,7 +3,7 @@
 ## Student data
 
 Name: Waseem Weshahi  
-ID: 206943391
+ID:
 
 ## News and Changes
 
